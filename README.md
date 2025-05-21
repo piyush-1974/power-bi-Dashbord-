@@ -1,2 +1,3 @@
 # power-bi-Dashbord-
-sales analysis 
+sales analysis
+quick analysis
